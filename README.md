@@ -2,7 +2,7 @@
 
 ### Language and Tools:
 <p>
-HTML, Java Programming Language, JavaScript Programming Language, Python Programming Language, PHP Programming Language
+HTML, Java Programming Language, JavaScript Programming Language, Python Programming Language, PHP Programming Language, CSS
 
 </p>
 
